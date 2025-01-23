@@ -31,6 +31,21 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"/>
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" height="30"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass logo" height="30"/>
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb logo" height="30" />
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash logo" width="42" height="30" />
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma logo" width="42" height="30" />
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="30" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx logo" height="30"/>
+  <img width="12"/>
+
 </div>
 
 ###
